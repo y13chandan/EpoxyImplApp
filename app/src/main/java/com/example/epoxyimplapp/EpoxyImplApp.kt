@@ -2,6 +2,7 @@ package com.example.epoxyimplapp
 
 import android.app.Application
 import android.content.Context
+import com.example.epoxyimplapp.repository.AppRepository
 
 class EpoxyImplApp : Application() {
 
