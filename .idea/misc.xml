@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.23703703703703705" />
+        <entry key="app/src/main/res/drawable-v24/placeholder.xml" value="0.23703703703703705" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/component_card.xml" value="0.12006079027355623" />
+        <entry key="app/src/main/res/layout/component_large_overline.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/component_loader.xml" value="0.22447916666666667" />
+        <entry key="app/src/main/res/layout/component_wide_button.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>
