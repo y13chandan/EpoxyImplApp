@@ -13,7 +13,7 @@ class MenuController : EpoxyController(
     override fun buildModels() {
         val result = _currentResult
 
-        if (result == null) {
+        if (result.isNullOrEmpty()) {
             loader { id("loader") }
             return
         }
