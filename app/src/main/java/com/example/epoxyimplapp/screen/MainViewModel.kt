@@ -1,15 +1,15 @@
-package com.example.epoxyimplapp
+package com.example.epoxyimplapp.screen
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.epoxyimplapp.EpoxyImplApp
+import com.example.epoxyimplapp.Failed
+import com.example.epoxyimplapp.Success
+import com.example.epoxyimplapp.UIState
 import kotlinx.coroutines.launch
 
 class MainViewModel: ViewModel() {
-    val featuredProducts: MutableLiveData<UIState> = MutableLiveData()
-    val popularDrinks: MutableLiveData<UIState> = MutableLiveData()
-    val signatureDrinks: MutableLiveData<UIState> = MutableLiveData()
-    val allProducts: MutableLiveData<UIState> = MutableLiveData()
     val categories: MutableLiveData<UIState> = MutableLiveData()
 
 

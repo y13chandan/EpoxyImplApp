@@ -1,9 +1,13 @@
-package com.example.epoxyimplapp
+package com.example.epoxyimplapp.screen
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
+import com.example.epoxyimplapp.Failed
+import com.example.epoxyimplapp.ProductCategory
+import com.example.epoxyimplapp.Success
+import com.example.epoxyimplapp.controller.MenuController
 import com.example.epoxyimplapp.databinding.ActivityMainBinding
 
 

@@ -1,5 +1,6 @@
 package com.example.epoxyimplapp
 
+import com.example.epoxyimplapp.network.ApiService
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

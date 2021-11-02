@@ -1,4 +1,7 @@
-package com.example.epoxyimplapp
+package com.example.epoxyimplapp.repository
+
+import com.example.epoxyimplapp.ProductCategory
+import com.example.epoxyimplapp.network.ApiService
 
 class AppRepository(private val service: ApiService) {
 

@@ -1,7 +1,8 @@
-package com.example.epoxyimplapp
+package com.example.epoxyimplapp.controller
 
 import com.airbnb.epoxy.EpoxyAsyncUtil
 import com.airbnb.epoxy.EpoxyController
+import com.example.epoxyimplapp.ProductCategory
 import com.example.epoxyimplapp.epoxyModel.card
 import com.example.epoxyimplapp.epoxyModel.largeOverline
 import com.example.epoxyimplapp.epoxyModel.loader
