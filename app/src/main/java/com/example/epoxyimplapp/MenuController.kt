@@ -2,6 +2,10 @@ package com.example.epoxyimplapp
 
 import com.airbnb.epoxy.EpoxyAsyncUtil
 import com.airbnb.epoxy.EpoxyController
+import com.example.epoxyimplapp.epoxyModel.card
+import com.example.epoxyimplapp.epoxyModel.largeOverline
+import com.example.epoxyimplapp.epoxyModel.loader
+import com.example.epoxyimplapp.epoxyModel.wideButton
 
 class MenuController : EpoxyController(
     EpoxyAsyncUtil.getAsyncBackgroundHandler(),
